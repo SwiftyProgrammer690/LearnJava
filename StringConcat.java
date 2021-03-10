@@ -9,7 +9,7 @@ public class StringConcat {
 		
 		String hello = "Hello";
 		String java = "Java!";
-		System.out.println(hello+java);
+		System.out.println(hello+java); //Output: HelloJava!
 		
 	}
 
